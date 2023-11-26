@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BANK ACCT VERSION 2 EDITED/1.0.0": {
+        "runtime": {
+          "BANK ACCT VERSION 2 EDITED.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BANK ACCT VERSION 2 EDITED/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
